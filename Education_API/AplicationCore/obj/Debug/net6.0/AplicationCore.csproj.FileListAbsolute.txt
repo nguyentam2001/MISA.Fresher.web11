@@ -1,0 +1,12 @@
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\bin\Debug\net6.0\AplicationCore.deps.json
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\bin\Debug\net6.0\AplicationCore.dll
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\bin\Debug\net6.0\ref\AplicationCore.dll
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\bin\Debug\net6.0\AplicationCore.pdb
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.AssemblyInfoInputs.cache
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.AssemblyInfo.cs
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.csproj.CoreCompileInputs.cache
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.dll
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\ref\AplicationCore.dll
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.pdb
+E:\MISA\MISA_API_WEB\Education_API\AplicationCore\obj\Debug\net6.0\AplicationCore.csproj.AssemblyReference.cache

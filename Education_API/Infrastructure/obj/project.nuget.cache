@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PetMGVcuLv/acCXhuBlIrZWo6zgMNWf5QS4duBLrMW6FL4Bk90SIsRLtxkFU0ltE3g/UMoFoHMZDhsd+/I92kg==",
+  "success": true,
+  "projectFilePath": "E:\\MISA\\MISA_API_WEB\\Education_API\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mysqlconnector\\2.1.6\\mysqlconnector.2.1.6.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

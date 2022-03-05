@@ -1,0 +1,15 @@
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\AplicationCore.dll
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\bin\Debug\net6.0\AplicationCore.pdb
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+E:\MISA\MISA_API_WEB\Education_API\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
